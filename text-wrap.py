@@ -11,7 +11,6 @@ j=0
 while j < iterations:
     
     wid = ini+4
-    print(ini,width)
     #print(string[ini:wid])
     i += width
     ini=i 
